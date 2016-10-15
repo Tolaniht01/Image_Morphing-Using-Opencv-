@@ -1,0 +1,41 @@
+﻿  Source.cpp
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(222): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(253): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(255): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(257): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(261): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(263): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(266): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(268): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(269): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(273): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(273): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(284): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(284): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(300): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(304): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(306): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(327): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(328): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(329): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(330): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(335): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(339): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(344): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(348): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(384): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(484): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(575): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(583): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(593): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(594): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\project_lab4\source.cpp(595): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project_lab4.vcxproj -> C:\Users\hp pc\Desktop\Himanshu\codes\Project_lab4\x64\Debug\Project_lab4.exe
+  Project_lab4.vcxproj -> C:\Users\hp pc\Desktop\Himanshu\codes\Project_lab4\x64\Debug\Project_lab4.pdb (Partial PDB)
